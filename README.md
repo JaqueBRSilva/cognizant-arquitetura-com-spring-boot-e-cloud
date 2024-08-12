@@ -24,7 +24,11 @@
             Desenvolvendo um Sistema para Eleição Usando Quarkus Framework
         </a>
     </li>
-    <br />
+    <li>
+        <a href="./pharmacie-cost-reduction-with-aws" target="_blank">
+            Redução dos Custos em Farmácias com AWS
+        </a>
+    </li>
 </ul>
 
 <br/>
